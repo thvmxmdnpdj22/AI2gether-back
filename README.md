@@ -1,5 +1,8 @@
 # 여행지 추천 AI 시스템 (사진 기반)
 
+### 다운로드 ###
+https://drive.google.com/file/d/1m_XpBTS6yZ-7JXnSDBJ5vkJfb69mmC-B/view?usp=sharing
+
 ## 개요
 사용자가 업로드한 여행 사진을 분석하여, 가장 유사한 인기 여행지를 추천하는 시스템입니다.  
 CLIP 모델로 이미지 임베딩 후, 대표 여행지들과 유사도를 비교합니다.
